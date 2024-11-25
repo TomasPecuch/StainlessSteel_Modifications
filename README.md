@@ -27,7 +27,7 @@ This repository contains modifications for the Stainless Steel 6.3/6.4 mod for M
 
 ## Installation Instructions
 1. Download the latest version of this repository.
-2. Replace the relevant files in your `SS6.3/data` directory.
+2. Replace the relevant files in your `\Program Files\Steam\steamapps\common\Medieval II Total War\mods\SS6.3\data` directory.
 3. Launch the game and enjoy the updated mechanics.
 
 ---
